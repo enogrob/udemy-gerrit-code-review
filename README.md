@@ -35,35 +35,35 @@ Section 3: User Settings 0 / 5|6min
 [x] 13. Project watch list configuration 2min
 
 Section 4: Pushing Code to Gerrit 1/8 | 13min
-[ ] 14. Introduction 1min
-[ ] 15. commit-msg hooks 2min
-[ ] 16. How to push to a branch 1min
-[ ] 17. Demo: commit-msg and push to a branch 4min
-[ ] 18. How to push for code review 1min
-[ ] 19. Demo: push for code review 2min
-[ ] 20. How to push a patchset 1min
-[ ] 21. Demo: push a patchset 3min
+[x] 14. Introduction 1min
+[x] 15. commit-msg hooks 2min
+[x] 16. How to push to a branch 1min
+[x] 17. Demo: commit-msg and push to a branch 4min
+[x] 18. How to push for code review 1min
+[x] 19. Demo: push for code review 2min
+[x] 20. How to push a patchset 1min
+[x] 21. Demo: push a patchset 3min
 
 Section 5: Using the change screen 0 / 7|9min
-[ ] 22. Introduction 1min
-[ ] 23. Change screen walkthrough 3min
-[ ] 24. Comments and approvals 3min
-[ ] 25. Submit a change 1min
-[ ] 26. Revert a submitted change 1min
-[ ] 27. Abandon a change 1min
-[ ] 28. Restore an abandoned change 1min
+[x] 22. Introduction 1min
+[x] 23. Change screen walkthrough 3min
+[x] 24. Comments and approvals 3min
+[x] 25. Submit a change 1min
+[x] 26. Revert a submitted change 1min
+[x] 27. Abandon a change 1min
+[x] 28. Restore an abandoned change 1min
 
 Section 6: Grouping Changes 0 / 3|5min
-[ ] 29. Introduction 1min
-[ ] 30. Topics 3min
-[ ] 31. Hashtags 2min
+[x] 29. Introduction 1min
+[x] 30. Topics 3min
+[xj] 31. Hashtags 2min
 
 Section 7: Conflict Resolution 0 / 4|7min
-[ ] 32. Introduction to rebase 1min
-[ ] 33. Demo: rebase 3min
-[ ] 34. Introduction to cherry-pick 1min
-[ ] 35. Demo: cherry-pick 3min
+[x] 32. Introduction to rebase 1min
+[x] 33. Demo: rebase 3min
+[x] 34. Introduction to cherry-pick 1min
+[x] 35. Demo: cherry-pick 3min
 
 Section 8: Course Completion 0 / 1|1min
-[ ] 36. Congratulations! 1min
+[x] 36. Congratulations! 1min
 ```
