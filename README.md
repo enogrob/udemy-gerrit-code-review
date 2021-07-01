@@ -16,25 +16,25 @@ Learn everything you need to about the subject of this `Udemy` project.
 ## Topics
 ```
 Section 1: Introduction 0 / 2|4min
-[ ] 1. Introduction to the course 1min
-[ ] 2. Introduction to Gerrit 3min
+[x] 1. Introduction to the course 1min
+[x] 2. Introduction to Gerrit 3min
 
 Section 2: Project Administration 0 / 6|14min
-[ ] 3. Introduction 1min
-[ ] 4. How to create a project 2min
-[ ] 5. How to create branches and tags 2min
-[ ] 6. Access controls 5min
-[ ] 7. Submit type 5min
-[ ] 8. How to delete a project 1min
+[x] 3. Introduction 1min
+[x] 4. How to create a project 2min
+[x] 5. How to create branches and tags 2min
+[x] 6. Access controls 5min
+[x] 7. Submit type 5min
+[x] 8. How to delete a project 1min
 
 Section 3: User Settings 0 / 5|6min
-[ ] 9. Introduction 1min
-[ ] 10. Name and Status configuration 2min
-[ ] 11. Email configuration 1min
-[ ] 12. SSH key configuration 2min
-[ ] 13. Project watch list configuration 2min
+[x] 9. Introduction 1min
+[x] 10. Name and Status configuration 2min
+[x] 11. Email configuration 1min
+[x] 12. SSH key configuration 2min
+[x] 13. Project watch list configuration 2min
 
-Section 4: Pushing Code to Gerrit 0 / 8|13min
+Section 4: Pushing Code to Gerrit 1/8 | 13min
 [ ] 14. Introduction 1min
 [ ] 15. commit-msg hooks 2min
 [ ] 16. How to push to a branch 1min
